@@ -12,6 +12,7 @@ import android.view.View;
 import android.view.Window;
 import android.widget.LinearLayout;
 
+
 public class MainTab extends FragmentActivity {
 	private String TAG = MainTab.class.getName();
 
